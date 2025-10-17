@@ -1,0 +1,30 @@
+.srt
+.wav
+.txt
+
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Build artifacts
+build/
+dist/
+public/build/
+public/dist/
+
+# Editor/OS specific
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
