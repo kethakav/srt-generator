@@ -1,6 +1,6 @@
-.srt
-.wav
-.txt
+*.srt
+*.wav
+*.txt
 
 # Node.js
 node_modules/
